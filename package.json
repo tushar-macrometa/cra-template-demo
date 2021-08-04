@@ -1,0 +1,13 @@
+{
+    "name": "cra-template-demo",
+    "version": "1.0.0",
+    "description": "Create React App template for demo projects",
+    "main": "template.json",
+    "engines": {
+        "node": ">=10"
+    },
+    "files": [
+        "template",
+        "template.json"
+    ]
+}
